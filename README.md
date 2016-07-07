@@ -2,4 +2,4 @@
 prueba1
 print("Hola mundo")
 '''Proyecto'''
-Agregar informacion de proyecto aqui versdiones
+Agregar informacion de proyecto aqui versiones
